@@ -9,7 +9,7 @@ For Assignment 4, I decided to tap into my childhood dream of becoming a paleont
 Github Pages Link
 ---
 
-
+https://jpking19.github.io/04-multiple-views/index.html
 
 Technical Achievements
 ---
